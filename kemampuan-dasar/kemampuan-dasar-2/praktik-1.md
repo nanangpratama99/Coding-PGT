@@ -5,31 +5,34 @@ Ini hanyalah salah satu dari banyak cara untuk berkolaborasi dalam sebuah proyek
 ## Langkah 1: Inisialisasi Proyek Baru
 1. Buka Github dan klik tombol '+' di pojok kanan atas dan pilih 'New Repository'.
 
-
-![buat repository 1](https://user-images.githubusercontent.com/111034379/184875057-362291f8-a4bc-47cb-b8db-5d000df89056.png)
+![buat repository 1](https://user-images.githubusercontent.com/111034379/184881870-fd7b6933-358b-456c-a05e-16629dfd57e3.png)
 
 2. Kemudian isi kolom Repository name dan Description. buat sebagai public agar bisa di akses oleh user lain, dan untuk README nya biarkan saja tidak usah di ceklist. lalu Klik "Buat repositori".
 
-![buat repository 2](https://user-images.githubusercontent.com/111034379/184875666-87344a00-6d0c-4384-87fe-73de5aefe049.png)
+![buat repository 2](https://user-images.githubusercontent.com/111034379/184882055-a90a98f6-b0d9-4960-8d78-572680134bac.png)
 
-![step 2](https://user-images.githubusercontent.com/111034379/184875733-d5326d00-4b42-4bc7-85fa-e87810260bd2.png)
+![step 2](https://user-images.githubusercontent.com/111034379/184882069-4b7771d3-add9-4c00-a090-a8c09f89cbae.png)
 
-3. Coba kita buat sebuah file html sederhana, disini saya menggunakan VSCode kamu bisa menggunakan code editor lain. klik kanan pada folder repo lokal yang telah kita buat tadi lalu open with VSCode. 
+3. Lalu akan tampil halaman seperti berikut.
 
-![step 5](https://user-images.githubusercontent.com/111034379/184878423-a61259f2-9277-49f2-afaf-59ebc61e2900.png)
+![step 3](https://user-images.githubusercontent.com/111034379/184882399-deb8ab42-86f5-47dd-84d7-c524a2d796d0.png)
 
-4. Lalu kita push ke remote (Repo Github)
+3. Buat directory di komputer lokal Anda, buka folder tersebut lalu klik kanan dan open with gitbash .lalu ikuti intruksi script di repo lokal anda (seperti pada gambar di atas) Tempelkan baris kode secara berurutan dimulai dari "echo..." ke terminal / gitbash saat . Terminal Anda akan terlihat seperti berikut setelah Anda selesai:
+
+![step 4](https://user-images.githubusercontent.com/111034379/184882464-a0a91665-6119-41a1-89c9-67603e8b4f19.png)
+
+4. Coba kita buat sebuah file html sederhana, disini saya menggunakan VSCode kamu bisa menggunakan code editor lain. klik kanan pada folder repo lokal yang telah kita buat tadi lalu open with VSCode. Seperti pada gambar di bawah ini.
+
+![step  7](https://user-images.githubusercontent.com/111034379/184880955-c8ad3fe2-7e8c-4e63-8e4b-2dd008588c36.png)
+
+5. Lalu kita push ke remote (Repo Github)
+
+![step 8 a](https://user-images.githubusercontent.com/111034379/184881156-74b633c4-9bdd-47c1-8d79-7ce2b2eef361.png)
+
+6. Coba kita cek pada halaman githab nya, refresh browsernya. maka tampilannya akan seperti berikut. repo yang ada di lokal dan remote kita sudah up-to-date / sama.
+
+![step 8](https://user-images.githubusercontent.com/111034379/184883067-f75ab984-b904-4c1c-bc3c-f859707879b7.png)
+
+7. SELAMAT ANDA SUDAH BERHASIL MEMBUAT REPOSITORY DI GITHUB & MELAKUKAN REMOTE, SELESAI. 
 
 
-
-5. Selanjutnya Anda akan melihat halaman setup. Ini adalah instruksi untuk menghubungkan Repo yang baru saja Anda buat di Github (Remote) ke direktori yang Anda buat di repo lokal Anda.
-
-![step 3](https://user-images.githubusercontent.com/111034379/184876196-c469ba97-bbdf-40bf-9da6-23952a0ff556.png)
-
-4. Buat directory di komputer lokal Anda, buka folder tersebut lalu klik kanan dan open with gitbash .lalu ikuti intruksi script di repo lokal anda (seperti pad gambar di atas) Tempelkan baris kode secara berurutan dimulai dari "echo..." ke terminal / gitbash saat . Terminal Anda akan terlihat seperti berikut setelah Anda selesai:
-
-![step 4](https://user-images.githubusercontent.com/111034379/184877195-837864e3-ff9a-4140-af2f-c833e29e617d.png)
-
-5. Coba kita cek pada halaman Repo Github Anda, Anda akan melihat ReadMe atau file yang telah Anda inisialisasi dan referensi ke Commit pertama yang Anda buat. tampilannya akan seperti ini.
-
-![step 8](https://user-images.githubusercontent.com/111034379/184877642-134b8c6c-e851-4e5b-93db-42cf612e2fce.png)
