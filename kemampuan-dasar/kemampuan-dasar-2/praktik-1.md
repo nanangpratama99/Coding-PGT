@@ -5,5 +5,5 @@ Ini hanyalah salah satu dari banyak cara untuk berkolaborasi dalam sebuah proyek
 ## Langkah 1: Inisialisasi Proyek Baru
 1. Buka Github dan klik tombol '+' di pojok kanan atas dan pilih 'New Repository'.
  
-   <img src="https://drive.google.com/file/d/1iIrKT39XE2WwuMVu6L_LJa6vVWkINcUU/view?usp=sharing">
+ ![alt text](https://drive.google.com/file/d/1iIrKT39XE2WwuMVu6L_LJa6vVWkINcUU/view?usp=sharing)
 
