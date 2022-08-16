@@ -1,42 +1,35 @@
-## 1. INFORMASI TEKNOLOGI
-#### Apa yang dimaksud dengan teknologi informasi?
-Teknologi Informasi (TI), atau dalam bahasa Inggris dikenal dengan istilah Information technology (IT) adalah istilah umum untuk teknologi apa pun yang membantu manusia dalam membuat, mengubah, menyimpan, mengomunikasikan dan/atau menyebarkan informasi.
-## 2. PERBEDAAN ILMU KOMPUTER DAN INFORMATIKA
+# Geting Started
+Panduan Kolaborasi Github 
+Ini hanyalah salah satu dari banyak cara untuk berkolaborasi dalam sebuah proyek menggunakan GitHub. Ini merupakan cara yang paling mudah di fahabi bagi pemulai yang ingin berkolaborasi dalam suatu project dengan menambahkan kontributor baru.
 
-### a. Ilmu Komputer
+## Langkah 1: Inisialisasi Proyek Baru
+1. Buka Github dan klik tombol '+' di pojok kanan atas dan pilih 'New Repository'.
 
- Ilmu Komputer merupakan bidang ilmu yang mempelajari tentang algoritma dan pemrograman untuk mengembangkan sebuah aplikasi maupun sistem perangkat lunak, dikutip dari duniailkom.com, Ilmu komputer dan Teknik informatika merupakan jurusan yang sama hanya berbeda penamaannya saja. 
-  
-### b. Sistem informatika
- Sistem Informasi merupakan bidang ilmu yang menggabungkan ilmu komputer dengan bisnis manajemen. Dikutip dari campus.quipper.com, pada jurusan Sistem Informasi kamu akan belajar tentang identifikasi kebutuhan dan proses bisnis perusahaan berdasarkan data-data yang dimiliki perusahaan berdasarkan data, lalu merancang sistem yang sesuai dengan kebutuhan perusahaan.
 
-## 3. Pengertian Software Development
- Dalam segi bahasa, software development merupakan pengembangan sebuah perangkat lunak. Selanjutnya menurut istilah, merupakan proses pengembangan sebuah aplikasi perangkat lunak yang dijalankan secara sistematis sehingga menghasilkan sebuah produk yang baik dan berkualitas. 
-	
-### Fungsi Software Development
- Apa yang dimaksud dengan software development?
- oftware development adalah proses yang digunakan programmer untuk membangun program komputer. Prosesnya, atau juga dikenal sebagai Software Development Life Cycle (SDLC), mencakup beberapa fase yang menyediakan metode untuk membangun produk yang memenuhi spesifikasi teknis dan persyaratan pengguna
-### Tahap Software Development Life Cycle (SDLC)
-1. Analyze (Analisis)
-2. Design (Desain)
-3. Implementation (Implementasi)
-4. Testing (Pengujian)
-5. Deployment (Perilisan)
-6. Maintenance (Perbaikan)
+![buat repository 1](https://user-images.githubusercontent.com/111034379/184875057-362291f8-a4bc-47cb-b8db-5d000df89056.png)
 
-## 4. ANGILE
- Apa itu agile?
- Agile software development adalah metode pengembangan perangkat lunak yang didasarkan pada pengerjaannya yang berulang, dimana aturan dan solusi yang sudah disepakati oleh setiap anggota tim dilakukan dengan kolaborasi secara terstruktur dan terorganisir.
+2. Kemudian isi kolom Repository name dan Description. buat sebagai public agar bisa di akses oleh user lain, dan untuk README nya biarkan saja tidak usah di ceklist. lalu Klik "Buat repositori".
 
-### Agile core value
- Agile software development sendiri memiliki empat nilai inti. Berikut ini adalah keempat nilainya:
-1. Interaksi antar individu lebih penting dibandingkan proses dan alat.
-2. Proses pengembangan software lebih penting dibandingkan dengan dokumentasi.
-3. Kolaborasi dengan klien lebih penting dibandingkan dengan kontrak.
-4. Menanggapi perubahan lebih penting daripada mengikuti rencana.
-## 5. SCRUM
- Apa yg dimaksud dengan Scrum?
- Scrum adalah kerangka-kerja sederhana untuk pengembangan produk kompleks. Scrum adalah sebuah kerangka-kerja, bukan sebuah metodologi manajemen proyek. Walaupun Scrum lebih banyak digunakan untuk pengembangan piranti lunak namum Scrum bisa digunakan untuk pengembangan produk apapun yang bersifat kompleks.
-## 6. XP (Extreme programming (XP)
- Apa yang dimaksud dengan Extreme Programming XP?
-XP adalah sebuah proses perangkat lunak yang membantu pengembang membuat kode berkualitas dengan cepat. Di sini, kita mendefinisikan kualitas sebagai sebuah basis kode yang sesuai dengan desain spesifikasi dan ekspektasi pelanggan
+![buat repository 2](https://user-images.githubusercontent.com/111034379/184875666-87344a00-6d0c-4384-87fe-73de5aefe049.png)
+
+![step 2](https://user-images.githubusercontent.com/111034379/184875733-d5326d00-4b42-4bc7-85fa-e87810260bd2.png)
+
+3. Coba kita buat sebuah file html sederhana, disini saya menggunakan VSCode kamu bisa menggunakan code editor lain. klik kanan pada folder repo lokal yang telah kita buat tadi lalu open with VSCode. 
+
+![step 5](https://user-images.githubusercontent.com/111034379/184878423-a61259f2-9277-49f2-afaf-59ebc61e2900.png)
+
+4. Lalu kita push ke remote (Repo Github)
+
+
+
+5. Selanjutnya Anda akan melihat halaman setup. Ini adalah instruksi untuk menghubungkan Repo yang baru saja Anda buat di Github (Remote) ke direktori yang Anda buat di repo lokal Anda.
+
+![step 3](https://user-images.githubusercontent.com/111034379/184876196-c469ba97-bbdf-40bf-9da6-23952a0ff556.png)
+
+4. Buat directory di komputer lokal Anda, buka folder tersebut lalu klik kanan dan open with gitbash .lalu ikuti intruksi script di repo lokal anda (seperti pad gambar di atas) Tempelkan baris kode secara berurutan dimulai dari "echo..." ke terminal / gitbash saat . Terminal Anda akan terlihat seperti berikut setelah Anda selesai:
+
+![step 4](https://user-images.githubusercontent.com/111034379/184877195-837864e3-ff9a-4140-af2f-c833e29e617d.png)
+
+5. Coba kita cek pada halaman Repo Github Anda, Anda akan melihat ReadMe atau file yang telah Anda inisialisasi dan referensi ke Commit pertama yang Anda buat. tampilannya akan seperti ini.
+
+![step 8](https://user-images.githubusercontent.com/111034379/184877642-134b8c6c-e851-4e5b-93db-42cf612e2fce.png)
