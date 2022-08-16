@@ -68,7 +68,7 @@ Saat kamu menggunakan git untuk mengerjakan proyek yang sama dengan banyak orang
 
 Cara agar cabang (Branch) Master dapat digunakan adalah dengan membuat cabang (Branch) baru untuk fitur baru dan menggabungkannya (Merge) ke dalam Branch Master setelah selesai. Berikut ini langkahnya :
 
-## Langkah 3a: Cabang
+## Langkah berikutnya : Cabang
 
 Untuk memulai, cabang (Branch) harus selalu mewakili fitur. Misalnya, jika kamu ingin menambahkan kemampuan bagi pengguna untuk masuk, Anda mungkin harus membuat cabang bernama "user_authentication" dan di cabang itu kamu hanya perlu memperbarui apa yang kamu perlukan untuk memungkinkan pengguna masuk.
 
@@ -103,10 +103,16 @@ ketik saja tanda seru "!" lalu Tab nanti otomatis akan menampilkan format script
 seperti biasa, kita cek dulu dengan 
 
 > $ git status (pastikan berada di branch yang benar)
+
 > $ git add .
+
+
 > $ git commit -m "menambahkan file daftar-peserta.html"
 
-lalu kamu bisa push perubahannya ke remote
+
+lalu kamu bisa push perubahannya ke remote, seperti pada gambar di bawah ini.
+
+> $ git push 
 
 ![8](https://user-images.githubusercontent.com/111034379/184895615-4eb82365-dc38-4083-aba5-24fa5cb4091e.png)
 
@@ -146,4 +152,4 @@ Kemudian kamu akan melihat pesan â€œPull request successfully merged and closedâ
 
 ![16](https://user-images.githubusercontent.com/111034379/184902414-c0056e75-291e-4acb-8ad4-7f82ecd73f32.png)
 
-SELESAI!
+# SELESAI!
